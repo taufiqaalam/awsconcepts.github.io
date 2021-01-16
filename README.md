@@ -1,5 +1,2 @@
-# Hello - world
-
-My first repository on Github pages
-
-I love :coffee: and :pizza: 
+# Cloud Cover
+ A clear, concise but comprehensive overview of the cloud and related technologies
